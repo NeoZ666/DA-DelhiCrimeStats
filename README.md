@@ -10,4 +10,4 @@ B. For the map:
 2. Converted .kml and .geojson to extraxt .shp(shapefile) and .shx
 3. Used Geopandas and Matplotlib.pyplo to show 2D choropleth map of Crime Stats.
 4. Used annotation methods from plt(took some time)
-5. Deduced cordinates from Polygon geometric shapes of the shapefile
+5. Deduced cordinates from Polygons of the shapefile
